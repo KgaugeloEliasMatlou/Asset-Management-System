@@ -1,0 +1,9 @@
+body {
+  height: 5000px;
+  padding-top: 80px;
+
+  background-image: url("https://sva-innovate.co.za/wp-content/uploads/2020/11/slider-bg-sva-1-01-scaled.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
